@@ -1,0 +1,9 @@
+input {
+    display: inline-block;
+    width: 50%;
+    padding: 0 0.2rem;
+}
+
+input:hover { 
+    cursor: pointer;
+}
